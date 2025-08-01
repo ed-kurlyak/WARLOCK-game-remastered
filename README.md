@@ -39,3 +39,7 @@ Key Features of the Project:
 
 
 This project serves as a modernized reimplementation of the classic WARLOCK game, preserving its original mechanics while adapting it to run on modern systems.
+
+<img src="https://github.com/ed-kurlyak/warlock-remastered/blob/main/pics/pic1.png">
+
+<img src="https://github.com/ed-kurlyak/warlock-remastered/blob/main/pics/pic2.png">
