@@ -38,6 +38,9 @@ Key Features of the Project:
 5. Custom Text Rendering Library – I personally developed a small library for rendering text in graphical applications, which was used in this project to display in-game text.  
 
 
+6. The HMI SOS and SciTech MGL libraries are 32-bit libraries that were used in the 1990s, so the project settings in Visual Studio 2019 should be set to Debug x86.  
+
+
 This project serves as a modernized reimplementation of the classic WARLOCK game, preserving its original mechanics while adapting it to run on modern systems.
 
 <img src="https://github.com/ed-kurlyak/warlock-remastered/blob/main/pics/pic1.png">
