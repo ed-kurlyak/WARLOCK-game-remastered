@@ -1,6 +1,6 @@
 # warlock-remastered
 
-The game WARLOCK was introduced in the book `Andre LaMothe "Tricks of the Game-Programming Gurus" (1994). In the book, the game was developed for the MS-DOS operating system, using video mode 13h (256 colors) with a screen resolution of 320×200 pixels. The game's code was described in Chapter 19, where `Andre demonstrated Ray Casting technology. The original code was compiled using the Microsoft C++ compiler.
+The game WARLOCK was introduced in the book `Andre LaMothe "Tricks of the Game-Programming Gurus" (1994) Chapter 19 of book. In the book, the game was developed for the MS-DOS operating system, using video mode 13h (256 colors) with a screen resolution of 320×200 pixels. The game's code was described in Chapter 19, where `Andre demonstrated Ray Casting technology. The original code was compiled using the Microsoft C++ compiler.
 
 
 Ray Casting Technology  
